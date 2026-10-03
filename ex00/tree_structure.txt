@@ -1,0 +1,47 @@
+.:
+total 0
+drwxrwxrwx 1 root root 512 Oct  3 12:07 .
+drwxrwxrwx 1 root root 512 Oct  1 12:17 ..
+drwxrwxrwx 1 root root 512 Oct  1 12:18 archives
+drwxrwxrwx 1 root root 512 Oct  3 12:10 ex00
+drwxrwxrwx 1 root root 512 Oct  3 11:50 projects
+drwxrwxrwx 1 root root 512 Oct  1 12:18 tools
+
+./archives:
+total 0
+drwxrwxrwx 1 root root 512 Oct  1 12:18 .
+drwxrwxrwx 1 root root 512 Oct  3 12:07 ..
+
+./ex00:
+total 0
+drwxrwxrwx 1 root root 512 Oct  3 12:10 .
+drwxrwxrwx 1 root root 512 Oct  3 12:07 ..
+-rwxrwxrwx 1 root root   0 Oct  3 12:10 tree_structure.txt
+
+./projects:
+total 0
+drwxrwxrwx 1 root root 512 Oct  3 11:50 .
+drwxrwxrwx 1 root root 512 Oct  3 12:07 ..
+drwxrwxrwx 1 root root 512 Oct  3 11:50 web
+
+./projects/web:
+total 0
+drwxrwxrwx 1 root root 512 Oct  3 11:50 .
+drwxrwxrwx 1 root root 512 Oct  3 11:50 ..
+drwxrwxrwx 1 root root 512 Oct  3 11:50 backend
+drwxrwxrwx 1 root root 512 Oct  3 11:50 frontend
+
+./projects/web/backend:
+total 0
+drwxrwxrwx 1 root root 512 Oct  3 11:50 .
+drwxrwxrwx 1 root root 512 Oct  3 11:50 ..
+
+./projects/web/frontend:
+total 0
+drwxrwxrwx 1 root root 512 Oct  3 11:50 .
+drwxrwxrwx 1 root root 512 Oct  3 11:50 ..
+
+./tools:
+total 0
+drwxrwxrwx 1 root root 512 Oct  1 12:18 .
+drwxrwxrwx 1 root root 512 Oct  3 12:07 ..
